@@ -1,3 +1,4 @@
+![logo](https://github.com/shravan225/shravan225/blob/main/background.png)
 <h1 align="center">Hi 👋, I'm Samala Shravan Kumar</h1>
 <h3 align="center">Passionate Computer Science student focused on software development and machine learning.</h3>
 
